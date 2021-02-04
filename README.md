@@ -1,1 +1,1 @@
-Quarkus guide: https://quarkus.io/guides/mongodb-panache
+Prova de conceito para conparar performance do quarkus
